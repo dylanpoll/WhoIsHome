@@ -11,7 +11,7 @@ FASTLED_USING_NAMESPACE
 CRGB leds[NUM_LEDS];
 #define BRIGHTNESS  10
 #define FRAMES_PER_SECOND  20
-
+ 
 char person = 'F';
 int d=0;
 int l=0;
