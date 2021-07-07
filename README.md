@@ -1,5 +1,5 @@
 # Update-Dylan
-I have a much better deployment setup and re written code that was based off this project in my cloud controller repo. 
+I have a much better deployment and have re written code that was used in this project in my cloud controller repo. 
 
 
 In the above mentioned repo the python application instead reports to a database overwritting entrees and logging times and handles hiccups with network device hangups by running a strike count over time to compensate for nmap not seeing activity on the network at the time of running the code.
