@@ -1,11 +1,16 @@
+# Update
 I have a much better deployment setup and re written code that was based off this project in my cloud controller repo. 
+
+
 In the above mentioned repo the python application instead reports to a database overwritting entrees and logging times and handles hiccups with network device hangups by running a strike count over time to compensate for nmap not seeing activity on the network at the time of running the code.
 It also has a react component that I made that pulls from the database and shows if the person in question is home or not among other things.
+
+
 WhoIsHome.py re write : https://github.com/dylanpoll/cloud-management-system/blob/main/whoishomescript.py
 React component : https://github.com/dylanpoll/cloud-management-system/blob/main/src/pages/whoIsHome.js
 
 
-# WhoIsHome
+# Original WhoIsHome Post
 Valencia Tech Clubs embedded systems divisions github
 
 the Who Is home project does the following:
