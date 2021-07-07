@@ -7,6 +7,7 @@ It also has a react component that I made that pulls from the database and shows
 
 
 WhoIsHome.py re write : https://github.com/dylanpoll/cloud-management-system/blob/main/whoishomescript.py
+
 React component : https://github.com/dylanpoll/cloud-management-system/blob/main/src/pages/whoIsHome.js
 
 
