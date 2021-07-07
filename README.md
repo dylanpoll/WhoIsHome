@@ -6,7 +6,7 @@ In the above mentioned repo the python application instead reports to a database
 It also has a react component that I made that pulls from the database and shows if the person in question is home or not among other things.
 
 
-WhoIsHome.py re write : https://github.com/dylanpoll/cloud-management-system/blob/main/whoishomescript.py
+NetworkMacAdressReportingWithDB.py (re creation of whoIsHome.py) : https://github.com/dylanpoll/cloud-management-system/blob/main/NetworkMacAdressReportingWithDB
 
 React component : https://github.com/dylanpoll/cloud-management-system/blob/main/src/pages/whoIsHome.js
 
